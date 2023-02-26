@@ -3,6 +3,8 @@
 Bot automatizador de interacciones.  
 Hecho con Python y selenium WebDriver.
 
+***
+
 ### <ins>Funcionamiento:</ins>
 
 - El bot obtiene los seguidores de una cuenta aleatoria de una lista de personas pertenecientes a un nicho.
