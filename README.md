@@ -1,4 +1,5 @@
 # InstaBot
+![Artificial intelligence_Flatline](https://user-images.githubusercontent.com/75407068/221657348-c47431ab-6d1f-4799-8b43-a9c4892be483.png)
 
 Bot automatizador de interacciones.  
 Hecho con Python y selenium WebDriver.
@@ -22,6 +23,7 @@ Esto se debe a que el bot utiliza el metodo seguir-dejar de seguir para generar 
 - Usted deberá descargar ambos archivos.
 - Deberá tener python instalado.  
 - En el final de los dos archivos encontrará la linea <code>bot = InstagramBot('user', 'password')</code> y <code>l2 = ["accounts"]</code>, en estos deberá configurar su correo, contraseña y a continuación una lista de cuentas pertenecientes a su nicho correspondiente.
+- Ejecútelo como un programa normal.
 ***
 ### <ins>Descargo de responsabilidad:</ins>
 - La utilización de cualquier tipo de automatización en instagram esta penada con shadowbans, ban definidos e indefinidos.  
